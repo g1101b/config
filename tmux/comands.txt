@@ -1,0 +1,24 @@
+pref !
+pref $ - rename cur session
+pref , - rename cur window
+
+pref & - kill cur window
+pref x - kill the active pane
+
+
+pref () - toggle client
+
+
+pref . - move cur window
+pref 1..9 - move to n window
+
+pref D - choose client from the list
+pref w - choose window from the list
+
+pref [ - enter copy mode
+pref ] - paste the most resent buffer content
+
+pref c - create new window
+
+pref d - detach cur client
+
